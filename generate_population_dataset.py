@@ -60,7 +60,7 @@ for code, name in states.items():
     # yearly growth rate between 0 – 3 %
     growth = np.random.uniform(0.0, 0.03)
 
-    for year in range(2011, 2022):
+    for year in range(2001, 2025):
         # simulate small random noise ±1 %
         noise = np.random.uniform(-0.01, 0.01)
         pop = base * ((1 + growth + noise) ** (year - 2011))
