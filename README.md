@@ -17,8 +17,6 @@ National Overview: Country-level population trends and growth patterns
 
 State-wise Distribution: Comparative analysis across Indian states and union territories
 
-Demographic Breakdown: Age, gender, and density metrics
-
 Historical Trends: Population evolution over decades
 
 🎨 Interactive Visualizations
@@ -83,7 +81,7 @@ Indian Census Data (2011, 2001, 1991)
 
 State-wise Population Statistics
 
-Demographic Indicators (Density, Growth Rates, Gender Ratio)
+Demographic Indicators (Growth Rates)
 
 Geographical Boundaries for mapping visualization
 
